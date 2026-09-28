@@ -94,7 +94,7 @@ AUTONOMOUS-RESEARCH-AGENT/
 
 1. Clone the repository
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/arjunrajaner-code/autonomous-research-agent.git
 cd AUTONOMOUS-RESEARCH-AGENT
 
 2. Create a virtual environment
